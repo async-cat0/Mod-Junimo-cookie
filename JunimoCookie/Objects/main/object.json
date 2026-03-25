@@ -1,0 +1,30 @@
+{
+    "Name" : "Junimo cookie",
+    "Description" : "It smells like strawberries and apples",
+    "Category" : "Cooking",
+    "Edibility" : 75,
+    "EdibilityIsDrink" : false,
+    "Price" : 450,
+    "IsColored": false,
+    
+    "CanPurchase": true,
+    "PurchaseFrom": "Pierre",
+    "PurchasePrice": 450,
+
+
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients" : [
+            {
+                "Object" : 233,
+                "Count" : 1
+            },
+            {
+                "Object": 252,
+                "Count": 1
+            }
+        ],
+        "IsDefault" : true
+    }
+}

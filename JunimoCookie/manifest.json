@@ -1,0 +1,11 @@
+{
+  "Name": "Junimo cookie",
+  "Author": "pythoner",
+  "Version": "1.0.0",
+  "Description": "The mod adds cookies in the form of junimo, they smell like strawberries and apples!",
+  "UniqueID": "pythoner.FirstContentPack",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.JsonAssets" 
+  }
+}
